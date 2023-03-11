@@ -14,6 +14,6 @@ echo $num . "回目＝ " . $dice . "<br>";
     echo $num . "回でゴールしました。<br>";
     break;
   }
-} while ($sum < 40);
+} while ($sum <= 40);
 
 ?>
