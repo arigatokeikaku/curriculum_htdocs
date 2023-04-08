@@ -1,0 +1,54 @@
+.container {
+    /* width: 100%; */
+    max-width: 1000px;
+    margin: auto;
+}
+
+.clear {
+    clear: both;
+}
+
+
+
+.logo {
+    background-color: #add8e6;
+    width: 200px;
+    height: 120px;
+    float: left;
+}
+
+.header {
+    width: 80%;
+    float: right;
+}
+
+.header_up {
+    height: 60px;
+    background-color: #87ceeb;
+    text-align: right;
+}
+
+.header_down {
+    height: 60px;
+    background-color: #00ffff;
+    text-align: right;
+}
+
+table {
+    padding: 10px;
+    margin: auto;
+}
+
+tr {
+    background-color: #87ceeb;
+}
+
+td {
+    background-color: #e0ffff;
+}
+
+.footer {
+    height: 50px;
+    width: 1000px;
+    background-color: #00ced1;
+}
