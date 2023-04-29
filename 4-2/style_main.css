@@ -1,0 +1,56 @@
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+h1 {
+    font-weight: 100;
+}
+
+.btn {
+    text-align: center;
+    /* margin: 15px 5px 0px 30px; */
+    /* appearance: none; */
+    border: 0;
+    border-radius: 3px;
+    color: #fff;
+    padding: 7px 10px;
+    font-size: 12px;
+    margin: 5px;
+}
+
+.register {
+    background-color: royalblue;
+}
+
+.logout {
+    background-color: grey;
+}
+
+.delete {
+    background-color: red;
+}
+
+th,
+td {
+    border: solid 1px lightgrey;
+
+    color: #333;
+    /* font-weight: 300; */
+}
+
+th {
+    background-color: rgb(226, 228, 232);
+    padding: 10px 25px;
+}
+
+td {
+    padding: 15px 25px;
+}
+
+table {
+    border-collapse: collapse;
+    /* border-color: grey;      */
+    text-align: center;
+    margin-top: 20px;
+}

@@ -1,0 +1,24 @@
+.container {
+    /* width: 100%; */
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+}
+
+
+.left {
+    width: 200px;
+    /* float: left; */
+    vertical-align: baseline;
+}
+
+.right {
+    /* height: 60px; */
+    text-align: right;
+    /* float: left; */
+    vertical-align: baseline;
+}
+
+.under {
+    width: 300px;
+}
